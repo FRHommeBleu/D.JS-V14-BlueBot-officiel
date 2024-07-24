@@ -1,0 +1,30 @@
+Bonjour, je vois que vous avez télécharger mon template, félicitations, tu a trouver l'un des meilleurs templates qui suis la VRAI docs d.js v14 !!
+
+Pour mener a bien au lancement de ton bot tu doit allez dans le fichier CONFIG.JS remplir lceci:
+
+>- color: "Couleur_par_defaut_(#000000)",
+>- colorTwitch: "#6441a5",
+>- classicColor: "#FFFF00",
+>- successColor: "#23dc3d",
+>- warningColor: "#FFCC00",
+>- errorColor: "#FF0000",
+>- errorChannelInteraction: "",
+>- token: "Token_Bot",
+>- clientId: "ClientID_Bot",
+>- mongoDB: "MongoDB_mongodb.com"
+
+CLique gauche sur TERMINAL en haut, clique gauche sur NEW TERMINAL ou NOUVEAU TERMINAL (suivant la langue de vscode) faire NPM I et attendre que les modules s'installe
+
+Il s’agit d’un bot personnel/publique, ce qui signifie que tu est le seul bon pour le propriétaire d’utiliser. TOi (le propriétaire) tu peut essentiellement gérer les fichiers de ton ordinateur à l’aide de cela!
+
+ensuite après cela, tu peut faire NPM I pour télécharger les modules, au cas ou que tu a une ereur du type MODULE NOT FOUND, vérifie bien le nom qui suis et tu peut faie NPM I (+ nom du module)
+
+vraiment en cas de problème je t'autorisée a me DM sur mon discord !
+en expliquant que tu a un sucis avec mon template github D.JS Version 14 !
+>- https://discordapp.com/users/1188507004826812551
+
+Sur se, bonne journée et bon projet développement !
+
+(Template originaire de mon bot discord cértifié 🤖 | [/]-BleuBot
+>- https://top.gg/bot/1188987065300430998
+>- https://discord.gg/HtmSbTZ79q)
